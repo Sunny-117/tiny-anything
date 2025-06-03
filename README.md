@@ -74,6 +74,8 @@ https://github.com/sunny-117/tiny-react
 
 ✅ mini-create-react-app-template
 
+✅ [mini-rspack](https://github.com/Sunny-117/mini-rspack)
+
 ## 上层框架
 
 ✅ mini-dva
