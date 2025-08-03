@@ -76,6 +76,8 @@ https://github.com/sunny-117/tiny-react
 
 ✅ [mini-rspack](https://github.com/Sunny-117/mini-rspack)
 
+✅ mini-pnpm
+
 ## 上层框架
 
 ✅ mini-dva
