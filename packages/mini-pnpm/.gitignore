@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+dist
+demo/performance-demo-project
+demo/basic-demo-project
