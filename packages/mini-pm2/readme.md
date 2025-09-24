@@ -1,3 +1,9 @@
+# 使用方式
+
+```shell
+npx mini-pm2 start worker.js
+```
+
 # mini-pm2，包含最核心的功能：
 
 start：后台启动并守护一个脚本
