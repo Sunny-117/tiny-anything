@@ -116,6 +116,8 @@ https://github.com/Sunny-117/mini-formily
 
 ## 工具库
 
+✅ mini-pm2
+
 ✅ mini-axios
 
 ✅ mini-nodemon
