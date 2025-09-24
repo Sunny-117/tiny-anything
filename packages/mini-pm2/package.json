@@ -1,10 +1,10 @@
 {
   "name": "mini-pm2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
-  "main": "bin/mini-pm2",
+  "main": "mini-pm2",
   "bin": {
-    "mini-pm2": "bin/mini-pm2"
+    "mini-pm2": "mini-pm2"
   },
   "keywords": [],
   "author": "",

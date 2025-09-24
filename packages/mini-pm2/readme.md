@@ -7,13 +7,13 @@ list：查看正在运行的进程
 stop：停止指定进程
 
 # 启动
-node bin/mini-pm2 start worker.js
+node mini-pm2 start worker.js
 
 # 查看进程列表
-node bin/mini-pm2 list
+node mini-pm2 list
 # === mini-pm2 进程列表 ===
 # PID=12345  SCRIPT=worker.js  STARTED=2025-09-24T03:00:00.000Z
 
 # 停止
-node bin/mini-pm2 stop 12345
+node mini-pm2 stop 12345
 
