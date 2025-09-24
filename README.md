@@ -11,148 +11,6 @@
 
 > 🚀 tiny-anything 是一个集合了前端领域的各种迷你版本的库，方便前端学习者学习，探索前端源码。里面的库是原库的超级迷你版本，只包含原库的主流程，不包含边界 case，所以建议仅学习使用，请勿用于生产环境
 
-### 🏠 [Homepage](https://sunny-117.github.io/mini-anything)
-
-# documentation
-
-## 框架
-
-> 由于 Vue, React 较为复杂，mini-vue 和 mini-react 在其他仓库
-
-✅ mini-vue3
-
-https://github.com/sunny-117/tiny-vue
-
-✅ mini-vue2
-
-https://github.com/sunny-117/mini-vue2
-
-✅ mini-react
-
-https://github.com/sunny-117/tiny-react
-
-✅ mini-react-hooks
-
-✅ mini-vue-reactivity
-
-
-## Vue 生态
-
-✅ mini-vue-router3
-
-✅ mini-vuex4
-
-✅ mini-mini-vuex3 100 行写一个 vuex
-
-✅ mini-pinia
-
-✅ mini-mini-pinia 40 行写一个 pinia
-
-✅ mini-pinia-ts 最接近官方的 pinia 实现
-
-## React 生态
-
-✅ mini-react-router4
-
-✅ mini-react-router5
-
-✅ mini-redux
-
-✅ connected-react-router
-
-✅ mini-react-redux
-
-✅ mini-redux-promise
-
-✅ mini-redux-thunk
-
-✅ mini-redux-saga
-
-✅ mini-recoil
-
-## 工具链
-
-✅ mini-create-react-app-template
-
-✅ [mini-rspack](https://github.com/Sunny-117/mini-rspack)
-
-✅ mini-pnpm
-
-## 上层框架
-
-✅ mini-dva
-
-✅ mini-umi
-
-✅ mini-plugin-dva-loading
-
-✅ mini-formily
-
-https://github.com/Sunny-117/mini-formily
-
-## 工程化
-
-✅ mini-webpack
-
-- 最接近源码的实现：https://github.com/sunny-117/jspack
-
-- 简化版 mini-webpack-loader-plugins
-
-- 极简版（适合新手）：https://github.com/Sunny-117/mini-webpack
-
-✅ mini-vite
-
-- 最接近源码的实现：https://github.com/Sunny-117/tiny-vite
-
-- 简化版：https://github.com/Sunny-117/mini-vite
-
-✅ mini-rollup
-
-详见：https://github.com/Sunny-117/cherry
-
-✅ mini-jest
-
-迷你单元测试框架
-
-## 工具库
-
-✅ mini-pm2
-
-✅ mini-axios
-
-✅ mini-nodemon
-
-✅ mini-express
-
-✅ mini-koa
-
-TODO: [mini-mitt](https://github.com/developit/mitt)
-
-## 插件
-
-✅ vite 插件
-
-https://github.com/sunny-117/vite-plugins
-
-✅ rollup plugin
-
-https://github.com/Sunny-117/rollup-core-plugins
-
-✅ esbuild plugin
-
-https://github.com/Sunny-117/esbuild-book
-
-## 状态管理
-
-✅ mini-mobx
-
-✅ mini-zustand
-
-## 编译器
-
-✅ parse&codegen&compiler
-
-https://github.com/Sunny-117/tiny-complier
 
 <h2>💼 repo</h2>
 <table>
@@ -309,6 +167,149 @@ https://github.com/Sunny-117/tiny-complier
 </table>
 
 ![mmexport1728274142812](https://github.com/user-attachments/assets/40098184-7947-48e4-90c9-160e2d62c587)
+
+### 🏠 [Homepage](https://sunny-117.github.io/mini-anything)
+
+# documentation
+
+## 框架
+
+> 由于 Vue, React 较为复杂，mini-vue 和 mini-react 在其他仓库
+
+✅ mini-vue3
+
+https://github.com/sunny-117/tiny-vue
+
+✅ mini-vue2
+
+https://github.com/sunny-117/mini-vue2
+
+✅ mini-react
+
+https://github.com/sunny-117/tiny-react
+
+✅ mini-react-hooks
+
+✅ mini-vue-reactivity
+
+
+## Vue 生态
+
+✅ mini-vue-router3
+
+✅ mini-vuex4
+
+✅ mini-mini-vuex3 100 行写一个 vuex
+
+✅ mini-pinia
+
+✅ mini-mini-pinia 40 行写一个 pinia
+
+✅ mini-pinia-ts 最接近官方的 pinia 实现
+
+## React 生态
+
+✅ mini-react-router4
+
+✅ mini-react-router5
+
+✅ mini-redux
+
+✅ connected-react-router
+
+✅ mini-react-redux
+
+✅ mini-redux-promise
+
+✅ mini-redux-thunk
+
+✅ mini-redux-saga
+
+✅ mini-recoil
+
+## 工具链
+
+✅ mini-create-react-app-template
+
+✅ [mini-rspack](https://github.com/Sunny-117/mini-rspack)
+
+✅ mini-pnpm
+
+## 上层框架
+
+✅ mini-dva
+
+✅ mini-umi
+
+✅ mini-plugin-dva-loading
+
+✅ mini-formily
+
+https://github.com/Sunny-117/mini-formily
+
+## 工程化
+
+✅ mini-webpack
+
+- 最接近源码的实现：https://github.com/sunny-117/jspack
+
+- 简化版 mini-webpack-loader-plugins
+
+- 极简版（适合新手）：https://github.com/Sunny-117/mini-webpack
+
+✅ mini-vite
+
+- 最接近源码的实现：https://github.com/Sunny-117/tiny-vite
+
+- 简化版：https://github.com/Sunny-117/mini-vite
+
+✅ mini-rollup
+
+详见：https://github.com/Sunny-117/cherry
+
+✅ mini-jest
+
+迷你单元测试框架
+
+## 工具库
+
+✅ mini-pm2
+
+✅ mini-axios
+
+✅ mini-nodemon
+
+✅ mini-express
+
+✅ mini-koa
+
+TODO: [mini-mitt](https://github.com/developit/mitt)
+
+## 插件
+
+✅ vite 插件
+
+https://github.com/sunny-117/vite-plugins
+
+✅ rollup plugin
+
+https://github.com/Sunny-117/rollup-core-plugins
+
+✅ esbuild plugin
+
+https://github.com/Sunny-117/esbuild-book
+
+## 状态管理
+
+✅ mini-mobx
+
+✅ mini-zustand
+
+## 编译器
+
+✅ parse&codegen&compiler
+
+https://github.com/Sunny-117/tiny-complier
 
 
 🖥 Environment Suppor
