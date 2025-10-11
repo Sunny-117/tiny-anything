@@ -313,12 +313,12 @@
     </tr>
     <tr>
       <th>
-        <a href="#" target="_blank">
+        <a href="./packages/mini-recoil" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-MMtyJUqXsef5qOLoSIdShoEzOehoXZ7JQ&s" width="50" align="center"/>
         </a>
       </th>
       <th>
-        <a href="#" target="_blank">mini-recoil</a>
+        <a href="./packages/mini-recoil" target="_blank">mini-recoil</a>
       </th>
       <th>🧪 React状态管理库Recoil的简约实现</th>
       <th>
@@ -328,12 +328,12 @@
     </tr>
     <tr>
       <th>
-        <a href="#" target="_blank">
+        <a href="./packages/mini-zustand" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" width="50" align="center"/>
         </a>
       </th>
       <th>
-        <a href="#" target="_blank">mini-zustand</a>
+        <a href="./packages/mini-zustand" target="_blank">mini-zustand</a>
       </th>
       <th>🐻 基于hooks的简约状态管理库</th>
       <th>
@@ -343,12 +343,12 @@
     </tr>
     <tr>
       <th>
-        <a href="#" target="_blank">
+        <a href="./packages/mini-mobx" target="_blank">
         <img src="./img/mini-react.png" width="50" align="center"/>
         </a>
       </th>
       <th>
-        <a href="#" target="_blank">mini-mobx</a>
+        <a href="./packages/mini-mobx" target="_blank">mini-mobx</a>
       </th>
       <th>🚀 响应式状态管理库MobX的简约实现</th>
       <th>
@@ -358,12 +358,12 @@
     </tr>
     <tr>
       <th>
-        <a href="#" target="_blank">
+        <a href="./packages/mini-dva" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/20552239?s=280&v=4" width="50" align="center"/>
         </a>
       </th>
       <th>
-        <a href="#" target="_blank">mini-dva</a>
+        <a href="./packages/mini-dva" target="_blank">mini-dva</a>
       </th>
       <th>🚀 基于Redux和Redux-saga的数据流方案</th>
       <th>
