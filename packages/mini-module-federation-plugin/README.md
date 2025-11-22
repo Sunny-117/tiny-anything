@@ -12,8 +12,6 @@
 
 ## ⚠️ 当前状态
 
-本项目是一个**教学演示项目**，展示了 Module Federation 的核心概念和实现思路。
-
 **已完成**:
 - ✅ Runtime 运行时代码（完整实现）
 - ✅ ModuleFederationPlugin 插件（完整实现）
@@ -224,27 +222,6 @@ now($('<div>').appendTo(document.body));
 | 复杂 Shared 策略 | ✅ | ❌ |
 | SSR 支持 | ✅ | ❌ |
 | 生产优化 | ✅ | ❌ |
-
-## 📚 项目文档
-
-### 核心文档
-- **[IMPLEMENTATION.md](./IMPLEMENTATION.md)** - 详细的实现原理和架构说明
-- **[USAGE.md](./USAGE.md)** - 使用指南和最佳实践
-- **[SUMMARY.md](./SUMMARY.md)** - 项目总结和学习价值
-
-### 核心代码
-- **[src/federation-runtime.js](./src/federation-runtime.js)** - Runtime 运行时实现
-- **[src/ModuleFederationPlugin.js](./src/ModuleFederationPlugin.js)** - Plugin 插件实现（未完成）
-
-### 示例应用
-- **[app/home](./app/home)** - Home 应用示例
-- **[app/active](./app/active)** - Active 应用示例
-
-## 🔗 外部资源
-
-- [Webpack Module Federation 官方文档](https://webpack.js.org/concepts/module-federation/)
-- [Module Federation 示例](https://github.com/module-federation/module-federation-examples)
-- [微前端架构](https://micro-frontends.org/)
 
 # 实现思路
 # Module Federation 实现原理详解
