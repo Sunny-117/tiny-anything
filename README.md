@@ -432,6 +432,22 @@
       </th>
     </tr>
     <tr>
+    <tr>
+      <th>
+        <a href="./packages/mini-module-federation-plugin" target="_blank">
+        <img src="https://module-federation.io/svg.svg" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-module-federation-plugin" target="_blank">mini-module-federation-plugin</a>
+      </th>
+      <th>📦 Webpack模块联邦插件的迷你实现</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+    </tr>
+    <tr>
       <th>
         <a href="./packages/mini-jest" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hv13xWYrg_Usxww9OTPx3FdKaIukCcCwrA&s" width="50" align="center"/>
@@ -796,6 +812,8 @@ https://github.com/Sunny-117/rollup-core-plugins
 ✅ esbuild plugin
 
 https://github.com/Sunny-117/esbuild-book
+
+✅ webpack MF plugin
 
 ## 状态管理
 
