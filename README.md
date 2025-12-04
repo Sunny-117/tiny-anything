@@ -120,6 +120,22 @@
     </tr>
     <tr>
       <th>
+        <a href="./packages/mini-swr" target="_blank">
+        <img src="https://images.seeklogo.com/logo-png/42/1/swr-logo-png_seeklogo-426744.png" width="50" align="center" height="50"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-swr" target="_blank">mini-swr</a>
+      </th>
+      <th>⚡️ 用于数据请求的 React Hooks 库</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="./packages/mini-react-router4" target="_blank">
         <img src="./img/react-router.png" width="50"  alt=""/>
         </a>
@@ -737,6 +753,8 @@ https://github.com/sunny-117/tiny-react
 ✅ mini-redux-saga
 
 ✅ mini-recoil
+
+✅ mini-swr
 
 ## 工具链
 
