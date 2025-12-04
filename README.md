@@ -121,7 +121,7 @@
     <tr>
       <th>
         <a href="./packages/mini-swr" target="_blank">
-        <img src="https://images.seeklogo.com/logo-png/42/1/swr-logo-png_seeklogo-426744.png" width="50" align="center" height="50"/>
+        <img src="https://img0.baidu.com/it/u=3730138805,2315749868&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=232" width="50" align="center" height="50"/>
         </a>
       </th>
       <th>
