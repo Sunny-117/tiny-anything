@@ -689,6 +689,21 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="./packages/lit-html" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/18489846?v=4" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/lit-html" target="_blank">lit-html</a>
+      </th>
+      <th>lit-html</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+    </tr>
 
   </tbody>
 </table>
