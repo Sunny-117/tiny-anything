@@ -1,0 +1,30 @@
+{
+  "name": "minimal-lit-html",
+  "version": "1.0.0",
+  "description": "A minimal implementation of lit-html for educational purposes",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:unit": "vitest run --grep -Property",
+    "test:property": "vitest run --grep Property",
+    "demo": "npm run build && node demo/server.js"
+  },
+  "keywords": [
+    "lit-html",
+    "template",
+    "rendering"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "fast-check": "^3.15.0",
+    "jsdom": "^27.3.0",
+    "typescript": "^5.3.0",
+    "vitest": "^1.2.0"
+  }
+}
