@@ -374,6 +374,21 @@
     </tr>
     <tr>
       <th>
+        <a href="./packages/mini-use-immer" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/45853199?s=200&v=4" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-use-immer" target="_blank">mini-use-immer</a>
+      </th>
+      <th>✍️ 在Hooks中简化状态更新的方式</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="./packages/mini-dva" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/20552239?s=280&v=4" width="50" align="center"/>
         </a>
