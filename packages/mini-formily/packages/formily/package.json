@@ -1,0 +1,20 @@
+{
+  "name": "mini-formily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mini-formily/antd": "workspace:*",
+    "@mini-formily/core": "workspace:*",
+    "@mini-formily/path": "workspace:*",
+    "@mini-formily/react": "workspace:*",
+    "@mini-formily/reactive": "workspace:*",
+    "@mini-formily/reactive-react": "workspace:*",
+    "@mini-formily/shared": "workspace:*"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@mini-formily/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "npm run build",
+    "dev": "tsup --watch",
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "tsup": "^6.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

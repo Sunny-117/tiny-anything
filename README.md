@@ -733,6 +733,21 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="./packages/mini-formily" target="_blank">
+        <img src="https://img.alicdn.com/tfs/TB1fHhZu4D1gK0jSZFyXXciOVXa-2500-1200.png" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-formily" target="_blank">mini-formily</a>
+      </th>
+      <th>mini-formily</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+    </tr>
 
   </tbody>
 </table>
@@ -815,10 +830,6 @@ https://github.com/sunny-117/tiny-react
 ✅ mini-umi
 
 ✅ mini-plugin-dva-loading
-
-✅ mini-formily
-
-https://github.com/Sunny-117/mini-formily
 
 ## 工程化
 
