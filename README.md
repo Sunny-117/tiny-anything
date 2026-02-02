@@ -449,6 +449,20 @@
     </tr>
     <tr>
       <th>
+        <a href="./packages/mini-lodash" target="_blank">
+        <img src="https://images.icon-icons.com/2699/PNG/512/lodash_logo_icon_169010.png" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-lodash" target="_blank">mini-lodash</a>
+      </th>
+      <th>📡 lodash</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="./packages/mini-webpack" target="_blank">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png" width="50" align="center"/>
         </a>

@@ -1,0 +1,20 @@
+{
+  "name": "lodash-source-code-analysis",
+  "version": "1.0.0",
+  "description": "lodash 源码解析",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "deploy": "cloudbase framework deploy"
+  },
+  "author": "Jacob<jacob.lcs@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@dovyp/vuepress-plugin-clipboard-copy": "^1.0.0-alpha.7",
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "vuepress": "^1.5.0"
+  }
+}
