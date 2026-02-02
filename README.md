@@ -461,6 +461,21 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
     </tr>
+     <tr>
+      <th>
+        <a href="./packages/mini-rollup" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9brFyYAVc_AjPVff3SZsPVANai1_5ovZiA&s" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-rollup" target="_blank">mini-rollup</a>
+      </th>
+      <th>📦 模块打包工具 Rollup 核心实现</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+    </tr>
     <tr>
       <th>
         <a href="./packages/mini-webpack" target="_blank">

@@ -1,0 +1,62 @@
+{
+  "name": "tiny-rollup",
+  "type": "module",
+  "version": "0.0.4",
+  "packageManager": "pnpm@10.6.3",
+  "description": "Lightweight JavaScript Bundler",
+  "license": "MIT",
+  "homepage": "https://github.com/Sunny-117/tiny-rollup#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-117/tiny-rollup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sunny-117/tiny-rollup/issues"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "tiny-rollup": "bin/tiny-rollup"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "lint": "eslint --cache .",
+    "lint:fix": "pnpm run lint --fix",
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "release": "bumpp && pnpm publish",
+    "prepublishOnly": "pnpm run build"
+  },
+  "dependencies": {
+    "acorn": "^8.8.0",
+    "cac": "^6.7.12",
+    "consola": "^3.4.0",
+    "magic-string": "^0.26.5",
+    "notools": "0.0.5-alpha.4"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.0.0",
+    "@types/node": "^20.10.7",
+    "bumpp": "^10.0.0",
+    "eslint": "^8.56.0",
+    "fast-glob": "^3.3.2",
+    "prettier": "^3.1.1",
+    "tsup": "^8.0.1",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

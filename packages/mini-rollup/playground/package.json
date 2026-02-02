@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd src && node index.js",
+    "tiny-rollup": "tiny-rollup"
+  },
+  "dependencies": {
+    "tiny-rollup": "workspace:*"
+  }
+}
