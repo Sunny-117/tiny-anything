@@ -6,8 +6,7 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "rollup --config rollup.config.js --watch",
-    "build": "rollup --config rollup.config.js",
-    "prepare": "npm run build"
+    "build": "rollup --config rollup.config.js"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6",

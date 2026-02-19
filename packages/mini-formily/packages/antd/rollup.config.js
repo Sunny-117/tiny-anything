@@ -8,7 +8,7 @@ import { name } from './package.json';
 
 export default defineConfig([
   {
-    input: 'react/index.tsx',
+    input: 'index.ts',
     external: ['react', 'react-dom'],
     plugins: [
       typescript(),

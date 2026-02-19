@@ -15,7 +15,7 @@ const BaseItem: React.FC<BaseItemProps>  = ({ children, label }) => {
   )
 }
 
-export const FormItem = connect(BaseItem, mapProps((props, field) => {
+export const FormItem = connect(BaseItem, mapProps((props: any, field: any) => {
   return { ...props, label: field.props.title }
 }))
 

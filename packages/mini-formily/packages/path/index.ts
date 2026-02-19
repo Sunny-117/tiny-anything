@@ -1,9 +1,8 @@
-
-const parse = (pattern) => {
+const parse = (pattern: string) => {
   if (!pattern) {
     return {
       entire: '',
-      segments: []
+      segments: [] as string[]
     }
   }
   return {
@@ -13,6 +12,9 @@ const parse = (pattern) => {
 }
 
 export class Path {
+  entire: string
+  segments: string[]
+
   constructor(input = '') {
     const { entire, segments } = parse(input)
     this.entire = entire
@@ -21,7 +23,7 @@ export class Path {
   static parse() {
     return new Path()
   }
-  concat(...args) {
+  concat(...args: string[][]) {
     const path = new Path('')
     path.segments = this.segments.concat(...args)
     path.entire = path.segments.join('.')
