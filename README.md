@@ -763,6 +763,21 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="./packages/mini-rxjs" target="_blank">
+        <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" width="50" align="center"/>
+        </a>
+      </th>
+      <th>
+        <a href="./packages/mini-rxjs" target="_blank">mini-rxjs</a>
+      </th>
+      <th>🔄 响应式编程库 RxJS 核心实现</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+    </tr>
 
   </tbody>
 </table>
@@ -874,6 +889,8 @@ https://github.com/sunny-117/tiny-react
 
 
 ## 工具库
+
+✅ mini-rxjs
 
 ✅ mini-pm2
 
